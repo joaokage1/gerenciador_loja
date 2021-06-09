@@ -1,6 +1,6 @@
-# gerenciador_loja
+# Gerenciador de lojas simples
 
-A new Flutter application.
+Flutter application.
 
 ## Getting Started
 
